@@ -22,10 +22,10 @@ if (condition) {
 	// Do something if `condition` is true
 }
 else if (anotherCondition) {
-	// Do something if `anotherCondition` is ture
+	// Do something if `anotherCondition` is true
 }
 else {
-	// Do something if `condition` AND `anotherCondition` is false
+	// Do something if `condition` AND `anotherCondition` are false
 }
 ```
 
@@ -57,7 +57,7 @@ int main () {
 }
 ```
 
-## Outuput
+## Output
 ```
 -> a is not less than 20!
 -> Value of a is : 100
